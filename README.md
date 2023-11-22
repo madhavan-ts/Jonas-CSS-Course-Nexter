@@ -5,12 +5,6 @@
 
 <h3 align="center">Nexter</h3>
 
-<div align="center">
-
-[![Status](https://img.shields.io/badge/status-active-success.svg)]()
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
-
-</div>
 
 ---
 
@@ -80,7 +74,6 @@ You can deploy this page to Netlify.
 
 ## ✍️ Authors <a name = "authors"></a>
 
-- [@fernandocutire](https://github.com/FernandoC1217) - Build by
 - [@jonasschmedtmann](https://github.com/jonasschmedtmann) - Idea & Initial Work
 
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
